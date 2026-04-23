@@ -1,0 +1,23 @@
+# Entorno y secretos
+.env
+.env.local
+
+# Sesión de WhatsApp (contiene tokens de sesión)
+whatsapp-session/
+
+# Dependencias
+node_modules/
+
+# Build
+dist/
+
+# Cobertura de tests
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

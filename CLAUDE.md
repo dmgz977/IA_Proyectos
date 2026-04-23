@@ -1,14 +1,15 @@
 CLAUDE.md Completo — Plantilla Maestra (copia y adapta)
-# [NOMBRE_PROYECTO] — Reglas del Agente AI-DLC
+# [SchedullerAdvisorAI] — Reglas del Agente AI-DLC
 
 ## Metadatos del Proyecto
-PROJECT_TYPE: [greenfield | brownfield]
-AUTONOMY_LEVEL: [L1 | L2 | L3 | L4]
+PROJECT_TYPE: [greenfield]
+AUTONOMY_LEVEL: [L1]
 CURRENT_PHASE: [inception | construction | operations]
 CYCLE_NUMBER: 1
 
 ## Stack Tecnológico (no negociable)
-- Lenguaje principal: [Python 3.11 / TypeScript 5 / Java 21 / Go 1.22]
+- Lenguaje principal: [Python 3.11 / TypeScript 5 / Java 21 / Node.js]
+- Integraciones: [Google Calendar API / WhatsApp Business Cloud API / LangChain + OpenAI]
 - Framework web: [FastAPI / NestJS / Spring Boot / Gin]
 - Base de datos: [PostgreSQL 15 / MongoDB 7 / MySQL 8]
 - ORM / Query builder: [SQLAlchemy / Prisma / Hibernate / GORM]
